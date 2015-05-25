@@ -2,12 +2,12 @@
 
 using namespace std;
 
-class candidat
+class candidate
 {
 	string imie;
 	string nazwisko;
 	int age; 
-}
+};
 
 main()
 {
