@@ -1,6 +1,6 @@
-Jakas tresc
+sdfsJakas tresc
 #dyihfagf
 #;ldjnfgbnks
 #dbfhignsdf
 #jdnfhgnsl
-$PATH = "/mnt/"
+$PATH = "/mnt/"sdfasdfas
